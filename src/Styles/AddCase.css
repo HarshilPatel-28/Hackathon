@@ -1,0 +1,42 @@
+h1{
+    color: #263251;
+    font-size: 2rem;
+    /* background-color: rgb(211, 224, 182); */
+    width: fit-content;
+    margin: 20px 20px;
+   
+}
+
+.main{
+    position: absolute;
+    width: 1200px;
+    height: 500px;
+    border: 1px solid black;
+
+    /* position: relative;    
+    transform: translate(-50%,-50%); */
+}
+
+.main div {
+    display: flex;
+    gap: 20px;
+}
+
+.field{
+    padding-bottom: 30px;
+}
+
+.input{
+    outline: auto;
+}
+
+input{
+    width: 20%;
+    height: 2vw;
+    
+}
+
+form{
+    width: 100%;
+    padding-top: 40px;
+}
