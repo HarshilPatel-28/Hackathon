@@ -1,0 +1,19 @@
+footer{
+    background-color: rgb(38, 36, 36);
+    color: white;
+    display: flex;
+    /* position: sticky; */
+    bottom: 0;
+    width: 100%;
+
+    gap: 50px;
+    padding: 6rem 0;
+    
+    
+    
+    display: grid;
+    /* grid-template-columns: 10fr 3fr 1fr; */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

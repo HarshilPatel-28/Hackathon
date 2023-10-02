@@ -40,3 +40,19 @@ form{
     width: 100%;
     padding-top: 40px;
 }
+
+.radio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-left: -170px;
+}
+
+.radio label {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
